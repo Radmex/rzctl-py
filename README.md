@@ -1,3 +1,8 @@
+### Updates
+- @29.04.2024
+    - No need to use .dll
+    - Tested on Python 3.12.3
+
 ### Requirements
 - [Razer Synapse](https://www.razer.com/synapse-3) (Must have the macro addon installed.)
 
